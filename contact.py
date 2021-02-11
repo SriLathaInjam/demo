@@ -1,2 +1,5 @@
-print("waste kodi")
+s=[6:2] 
+s.sort()
+print("s")
+
 
